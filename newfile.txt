@@ -1,3 +1,9 @@
 1. the first change
 2. the second change
 3. change nextfile.txt in github
+
+4. git add / git commit / git push的区别：
+  - 它们提交代码的区域不同
+  - git add 是将代码从working derector提交到stating
+  - git commit 是将代码从stating提交到Local repository
+  - git push 是将代码从Local repository 提交到 Remote repository
